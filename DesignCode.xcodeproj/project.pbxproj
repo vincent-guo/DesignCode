@@ -12,6 +12,7 @@
 		FB1CD94C26E07CE9005D0DAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1CD94B26E07CE9005D0DAA /* Assets.xcassets */; };
 		FB1CD94F26E07CE9005D0DAA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1CD94E26E07CE9005D0DAA /* Preview Assets.xcassets */; };
 		FB50CE9126E2116D0039CA61 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB50CE9026E2116D0039CA61 /* MenuView.swift */; };
+		FBE6441226E22A74003A1042 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBE6441126E22A74003A1042 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FB1CD94E26E07CE9005D0DAA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB1CD95026E07CE9005D0DAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB50CE9026E2116D0039CA61 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		FBE6441126E22A74003A1042 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FB1CD94726E07CE7005D0DAA /* DesignCodeApp.swift */,
 				FB1CD94926E07CE7005D0DAA /* ContentView.swift */,
 				FB50CE9026E2116D0039CA61 /* MenuView.swift */,
+				FBE6441126E22A74003A1042 /* Home.swift */,
 				FB1CD94B26E07CE9005D0DAA /* Assets.xcassets */,
 				FB1CD95026E07CE9005D0DAA /* Info.plist */,
 				FB1CD94D26E07CE9005D0DAA /* Preview Content */,
@@ -143,6 +146,7 @@
 			files = (
 				FB1CD94A26E07CE7005D0DAA /* ContentView.swift in Sources */,
 				FB50CE9126E2116D0039CA61 /* MenuView.swift in Sources */,
+				FBE6441226E22A74003A1042 /* Home.swift in Sources */,
 				FB1CD94826E07CE7005D0DAA /* DesignCodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
