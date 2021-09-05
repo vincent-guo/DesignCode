@@ -14,6 +14,7 @@
 		FB23C8EF26E27F0600E25ABD /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB23C8EE26E27F0600E25ABD /* HomeView.swift */; };
 		FB50CE9126E2116D0039CA61 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB50CE9026E2116D0039CA61 /* MenuView.swift */; };
 		FB56283326E514F400699C2F /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB56283226E514F400699C2F /* UpdateDetail.swift */; };
+		FB56283526E5189100699C2F /* UpdateStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB56283426E5189100699C2F /* UpdateStore.swift */; };
 		FBC3EA6326E50C7B009424C6 /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC3EA6226E50C7B009424C6 /* UpdateList.swift */; };
 		FBE6441226E22A74003A1042 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBE6441126E22A74003A1042 /* Home.swift */; };
 /* End PBXBuildFile section */
@@ -28,6 +29,7 @@
 		FB23C8EE26E27F0600E25ABD /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		FB50CE9026E2116D0039CA61 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		FB56283226E514F400699C2F /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
+		FB56283426E5189100699C2F /* UpdateStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateStore.swift; sourceTree = "<group>"; };
 		FBC3EA6226E50C7B009424C6 /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 		FBE6441126E22A74003A1042 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,6 +69,7 @@
 				FB50CE9026E2116D0039CA61 /* MenuView.swift */,
 				FBE6441126E22A74003A1042 /* Home.swift */,
 				FBC3EA6226E50C7B009424C6 /* UpdateList.swift */,
+				FB56283426E5189100699C2F /* UpdateStore.swift */,
 				FB56283226E514F400699C2F /* UpdateDetail.swift */,
 				FB23C8EE26E27F0600E25ABD /* HomeView.swift */,
 				FB1CD94B26E07CE9005D0DAA /* Assets.xcassets */,
@@ -157,6 +160,7 @@
 				FB1CD94A26E07CE7005D0DAA /* ContentView.swift in Sources */,
 				FB50CE9126E2116D0039CA61 /* MenuView.swift in Sources */,
 				FBC3EA6326E50C7B009424C6 /* UpdateList.swift in Sources */,
+				FB56283526E5189100699C2F /* UpdateStore.swift in Sources */,
 				FBE6441226E22A74003A1042 /* Home.swift in Sources */,
 				FB23C8EF26E27F0600E25ABD /* HomeView.swift in Sources */,
 				FB1CD94826E07CE7005D0DAA /* DesignCodeApp.swift in Sources */,
