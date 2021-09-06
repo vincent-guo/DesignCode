@@ -16,6 +16,7 @@
 		FB56283326E514F400699C2F /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB56283226E514F400699C2F /* UpdateDetail.swift */; };
 		FB56283526E5189100699C2F /* UpdateStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB56283426E5189100699C2F /* UpdateStore.swift */; };
 		FB56283726E51E1F00699C2F /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB56283626E51E1F00699C2F /* TabBar.swift */; };
+		FB906F6E26E61DE3002FB0EB /* RingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB906F6D26E61DE3002FB0EB /* RingView.swift */; };
 		FBC3EA6326E50C7B009424C6 /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC3EA6226E50C7B009424C6 /* UpdateList.swift */; };
 		FBE6441226E22A74003A1042 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBE6441126E22A74003A1042 /* Home.swift */; };
 /* End PBXBuildFile section */
@@ -32,6 +33,7 @@
 		FB56283226E514F400699C2F /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		FB56283426E5189100699C2F /* UpdateStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateStore.swift; sourceTree = "<group>"; };
 		FB56283626E51E1F00699C2F /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		FB906F6D26E61DE3002FB0EB /* RingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingView.swift; sourceTree = "<group>"; };
 		FBC3EA6226E50C7B009424C6 /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 		FBE6441126E22A74003A1042 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,6 +70,7 @@
 			children = (
 				FB1CD94726E07CE7005D0DAA /* DesignCodeApp.swift */,
 				FB1CD94926E07CE7005D0DAA /* ContentView.swift */,
+				FB906F6D26E61DE3002FB0EB /* RingView.swift */,
 				FB50CE9026E2116D0039CA61 /* MenuView.swift */,
 				FBE6441126E22A74003A1042 /* Home.swift */,
 				FBC3EA6226E50C7B009424C6 /* UpdateList.swift */,
@@ -159,6 +162,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB906F6E26E61DE3002FB0EB /* RingView.swift in Sources */,
 				FB56283726E51E1F00699C2F /* TabBar.swift in Sources */,
 				FB56283326E514F400699C2F /* UpdateDetail.swift in Sources */,
 				FB1CD94A26E07CE7005D0DAA /* ContentView.swift in Sources */,
