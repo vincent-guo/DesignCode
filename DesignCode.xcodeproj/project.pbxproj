@@ -12,6 +12,17 @@
 		FB1CD94C26E07CE9005D0DAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1CD94B26E07CE9005D0DAA /* Assets.xcassets */; };
 		FB1CD94F26E07CE9005D0DAA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1CD94E26E07CE9005D0DAA /* Preview Assets.xcassets */; };
 		FB23C8EF26E27F0600E25ABD /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB23C8EE26E27F0600E25ABD /* HomeView.swift */; };
+		FB2C8F9B26E769E600D0CE4E /* Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2C8F9A26E769E600D0CE4E /* Modifiers.swift */; };
+		FB2C8FD526E76FAE00D0CE4E /* WorkSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FCB26E76FAE00D0CE4E /* WorkSans-Regular.ttf */; };
+		FB2C8FD626E76FAE00D0CE4E /* WorkSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FCC26E76FAE00D0CE4E /* WorkSans-Light.ttf */; };
+		FB2C8FD726E76FAE00D0CE4E /* WorkSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FCD26E76FAE00D0CE4E /* WorkSans-ExtraBold.ttf */; };
+		FB2C8FD826E76FAE00D0CE4E /* WorkSans-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FCE26E76FAE00D0CE4E /* WorkSans-ExtraLight.ttf */; };
+		FB2C8FD926E76FAE00D0CE4E /* WorkSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FCF26E76FAE00D0CE4E /* WorkSans-Medium.ttf */; };
+		FB2C8FDA26E76FAE00D0CE4E /* WorkSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FD026E76FAE00D0CE4E /* WorkSans-SemiBold.ttf */; };
+		FB2C8FDB26E76FAE00D0CE4E /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FD126E76FAE00D0CE4E /* OFL.txt */; };
+		FB2C8FDC26E76FAE00D0CE4E /* WorkSans-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FD226E76FAE00D0CE4E /* WorkSans-Thin.ttf */; };
+		FB2C8FDD26E76FAE00D0CE4E /* WorkSans-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FD326E76FAE00D0CE4E /* WorkSans-Black.ttf */; };
+		FB2C8FDE26E76FAE00D0CE4E /* WorkSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB2C8FD426E76FAE00D0CE4E /* WorkSans-Bold.ttf */; };
 		FB50CE9126E2116D0039CA61 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB50CE9026E2116D0039CA61 /* MenuView.swift */; };
 		FB56283326E514F400699C2F /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB56283226E514F400699C2F /* UpdateDetail.swift */; };
 		FB56283526E5189100699C2F /* UpdateStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB56283426E5189100699C2F /* UpdateStore.swift */; };
@@ -29,6 +40,17 @@
 		FB1CD94E26E07CE9005D0DAA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB1CD95026E07CE9005D0DAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB23C8EE26E27F0600E25ABD /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		FB2C8F9A26E769E600D0CE4E /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
+		FB2C8FCB26E76FAE00D0CE4E /* WorkSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-Regular.ttf"; sourceTree = "<group>"; };
+		FB2C8FCC26E76FAE00D0CE4E /* WorkSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-Light.ttf"; sourceTree = "<group>"; };
+		FB2C8FCD26E76FAE00D0CE4E /* WorkSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		FB2C8FCE26E76FAE00D0CE4E /* WorkSans-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-ExtraLight.ttf"; sourceTree = "<group>"; };
+		FB2C8FCF26E76FAE00D0CE4E /* WorkSans-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-Medium.ttf"; sourceTree = "<group>"; };
+		FB2C8FD026E76FAE00D0CE4E /* WorkSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-SemiBold.ttf"; sourceTree = "<group>"; };
+		FB2C8FD126E76FAE00D0CE4E /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		FB2C8FD226E76FAE00D0CE4E /* WorkSans-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-Thin.ttf"; sourceTree = "<group>"; };
+		FB2C8FD326E76FAE00D0CE4E /* WorkSans-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-Black.ttf"; sourceTree = "<group>"; };
+		FB2C8FD426E76FAE00D0CE4E /* WorkSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-Bold.ttf"; sourceTree = "<group>"; };
 		FB50CE9026E2116D0039CA61 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		FB56283226E514F400699C2F /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		FB56283426E5189100699C2F /* UpdateStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateStore.swift; sourceTree = "<group>"; };
@@ -71,6 +93,7 @@
 				FB1CD94726E07CE7005D0DAA /* DesignCodeApp.swift */,
 				FB1CD94926E07CE7005D0DAA /* ContentView.swift */,
 				FB906F6D26E61DE3002FB0EB /* RingView.swift */,
+				FB2C8F9A26E769E600D0CE4E /* Modifiers.swift */,
 				FB50CE9026E2116D0039CA61 /* MenuView.swift */,
 				FBE6441126E22A74003A1042 /* Home.swift */,
 				FBC3EA6226E50C7B009424C6 /* UpdateList.swift */,
@@ -78,6 +101,7 @@
 				FB56283226E514F400699C2F /* UpdateDetail.swift */,
 				FB23C8EE26E27F0600E25ABD /* HomeView.swift */,
 				FB1CD94B26E07CE9005D0DAA /* Assets.xcassets */,
+				FB2C8FCA26E76FAE00D0CE4E /* Work_Sans */,
 				FB1CD95026E07CE9005D0DAA /* Info.plist */,
 				FB1CD94D26E07CE9005D0DAA /* Preview Content */,
 				FB56283626E51E1F00699C2F /* TabBar.swift */,
@@ -91,6 +115,23 @@
 				FB1CD94E26E07CE9005D0DAA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FB2C8FCA26E76FAE00D0CE4E /* Work_Sans */ = {
+			isa = PBXGroup;
+			children = (
+				FB2C8FCB26E76FAE00D0CE4E /* WorkSans-Regular.ttf */,
+				FB2C8FCC26E76FAE00D0CE4E /* WorkSans-Light.ttf */,
+				FB2C8FCD26E76FAE00D0CE4E /* WorkSans-ExtraBold.ttf */,
+				FB2C8FCE26E76FAE00D0CE4E /* WorkSans-ExtraLight.ttf */,
+				FB2C8FCF26E76FAE00D0CE4E /* WorkSans-Medium.ttf */,
+				FB2C8FD026E76FAE00D0CE4E /* WorkSans-SemiBold.ttf */,
+				FB2C8FD126E76FAE00D0CE4E /* OFL.txt */,
+				FB2C8FD226E76FAE00D0CE4E /* WorkSans-Thin.ttf */,
+				FB2C8FD326E76FAE00D0CE4E /* WorkSans-Black.ttf */,
+				FB2C8FD426E76FAE00D0CE4E /* WorkSans-Bold.ttf */,
+			);
+			path = Work_Sans;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,8 +191,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB2C8FD526E76FAE00D0CE4E /* WorkSans-Regular.ttf in Resources */,
 				FB1CD94F26E07CE9005D0DAA /* Preview Assets.xcassets in Resources */,
 				FB1CD94C26E07CE9005D0DAA /* Assets.xcassets in Resources */,
+				FB2C8FDC26E76FAE00D0CE4E /* WorkSans-Thin.ttf in Resources */,
+				FB2C8FDB26E76FAE00D0CE4E /* OFL.txt in Resources */,
+				FB2C8FD726E76FAE00D0CE4E /* WorkSans-ExtraBold.ttf in Resources */,
+				FB2C8FD826E76FAE00D0CE4E /* WorkSans-ExtraLight.ttf in Resources */,
+				FB2C8FDA26E76FAE00D0CE4E /* WorkSans-SemiBold.ttf in Resources */,
+				FB2C8FD926E76FAE00D0CE4E /* WorkSans-Medium.ttf in Resources */,
+				FB2C8FDD26E76FAE00D0CE4E /* WorkSans-Black.ttf in Resources */,
+				FB2C8FD626E76FAE00D0CE4E /* WorkSans-Light.ttf in Resources */,
+				FB2C8FDE26E76FAE00D0CE4E /* WorkSans-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -163,6 +214,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB906F6E26E61DE3002FB0EB /* RingView.swift in Sources */,
+				FB2C8F9B26E769E600D0CE4E /* Modifiers.swift in Sources */,
 				FB56283726E51E1F00699C2F /* TabBar.swift in Sources */,
 				FB56283326E514F400699C2F /* UpdateDetail.swift in Sources */,
 				FB1CD94A26E07CE7005D0DAA /* ContentView.swift in Sources */,
