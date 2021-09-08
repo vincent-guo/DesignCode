@@ -30,6 +30,7 @@
 		FB906F6E26E61DE3002FB0EB /* RingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB906F6D26E61DE3002FB0EB /* RingView.swift */; };
 		FBC3EA6326E50C7B009424C6 /* UpdateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBC3EA6226E50C7B009424C6 /* UpdateList.swift */; };
 		FBE6441226E22A74003A1042 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBE6441126E22A74003A1042 /* Home.swift */; };
+		FBF2F8CF26E897FC00EBFD71 /* CourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF2F8CE26E897FC00EBFD71 /* CourseList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		FB906F6D26E61DE3002FB0EB /* RingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingView.swift; sourceTree = "<group>"; };
 		FBC3EA6226E50C7B009424C6 /* UpdateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateList.swift; sourceTree = "<group>"; };
 		FBE6441126E22A74003A1042 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		FBF2F8CE26E897FC00EBFD71 /* CourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				FBC3EA6226E50C7B009424C6 /* UpdateList.swift */,
 				FB56283426E5189100699C2F /* UpdateStore.swift */,
 				FB56283226E514F400699C2F /* UpdateDetail.swift */,
+				FBF2F8CE26E897FC00EBFD71 /* CourseList.swift */,
 				FB23C8EE26E27F0600E25ABD /* HomeView.swift */,
 				FB1CD94B26E07CE9005D0DAA /* Assets.xcassets */,
 				FB2C8FCA26E76FAE00D0CE4E /* Work_Sans */,
@@ -217,6 +220,7 @@
 				FB2C8F9B26E769E600D0CE4E /* Modifiers.swift in Sources */,
 				FB56283726E51E1F00699C2F /* TabBar.swift in Sources */,
 				FB56283326E514F400699C2F /* UpdateDetail.swift in Sources */,
+				FBF2F8CF26E897FC00EBFD71 /* CourseList.swift in Sources */,
 				FB1CD94A26E07CE7005D0DAA /* ContentView.swift in Sources */,
 				FB50CE9126E2116D0039CA61 /* MenuView.swift in Sources */,
 				FBC3EA6326E50C7B009424C6 /* UpdateList.swift in Sources */,
